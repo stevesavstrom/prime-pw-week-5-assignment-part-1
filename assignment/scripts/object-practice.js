@@ -50,7 +50,7 @@ console.log('I got a new pair of shoes! Now I should have 8 pairs:', me.shoeCoun
   - Cool huh? It works, even though it wasn't there before
   - Console.log your object
 */
-me.favoriteColor = 'Indigo'
+me.favoriteColor = 'Navy'
 console.log(me);
 
 // Source for #4 and #5: http://dyn-web.com/tutorials/object-literal/properties.php#:~:text=Add%20a%20Property%20to%20an%20Existing%20Object%20Literal&text=myObject.,if%20it%20is%20a%20string).
